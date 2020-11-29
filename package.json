@@ -1,0 +1,13 @@
+{
+  "name": "techbase_ateam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yuji YAMATOYA",
+  "license": "ISC",
+  "update": "2020-11-30 01:51:53"
+}
