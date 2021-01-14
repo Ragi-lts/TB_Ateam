@@ -1,0 +1,7 @@
+{
+    "name": "ateam_portal",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^5.2"
+    }
+}
