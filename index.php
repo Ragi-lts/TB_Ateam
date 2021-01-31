@@ -14,7 +14,6 @@
 
 <body class="container-fluid">
 
-
   <div class="">
     <h4 style="text-align: center;">
       <?php echo $title?>
